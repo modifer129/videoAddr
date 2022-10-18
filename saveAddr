@@ -1,2 +1,64 @@
 解读raft算法:
 https://www.bilibili.com/video/BV1pr4y1b7H5/?spm_id_from=333.337.search-card.all.click
+
+学习英语：
+https://www.duolingo.com/placement/en
+
+java 爬虫电影:
+https://www.cnblogs.com/penglei-it/p/java_spider.html
+
+汇编从0开始
+https://www.bilibili.com/video/BV1b7411u7LB/?spm_id_from=333.788.recommend_more_video.2
+
+滴水逆向
+https://www.bilibili.com/video/BV1w54y1y7Di/?spm_id_from=333.788.recommend_more_video.0
+https://www.bilibili.com/video/BV1w54y1y7Di/?spm_id_from=333.337.search-card.all.click
+滴水三期课后习题解答
+https://github.com/smallzhong/drip-education-homework/blob/master/%E6%89%93%E5%8D%B0%E5%AF%BC%E5%85%A5%E8%A1%A8-%E9%87%8D%E6%9E%84/PrintImportTable.cp
+
+solana 开发入门：
+http://blog.hubwiz.com/2022/01/22/solana-dev-101/
+
+
+幼麟实验室golang合集
+https://www.bilibili.com/video/BV1hv411x7we/?spm_id_from=333.788.recommend_more_video.15
+
+golang区块链:
+https://github.com/StillFantastic/Go-Blockchain/blob/master/cli/cli.go
+
+geth私链启动:
+geth --networkid 1224  --datadir /Users/momo/mySelf/privchain/Geth/devMode/data0  
+--http --http.addr 127.0.0.1 --http.port 8545 --port 3000  --http.api eth,web3,personal,net,miner --http.corsdomain "*" 
+--allow-insecure-unlock --nodiscover  --ropsten --miner.noverify
+
+rust宏workshop学习:
+https://github.com/dtolnay/proc-macro-workshop
+https://www.bilibili.com/video/BV1TB4y1P7ak/?spm_id_from=pageDriver(video)
+
+从零开始建一个assembly游戏:
+https://www.bilibili.com/video/BV19a41127Dq/?spm_id_from=333.788.recommend_more_video.2
+
+golang 开发公链项目实战:
+https://www.bilibili.com/video/BV15T4y1B7TW?spm_id_from=333.337.search-card.all.click
+https://www.bilibili.com/video/BV16b4y1p7W8?p=34
+
+Rust编程小项目：编写简单的区块链:
+https://www.bilibili.com/video/BV145411t7qp/?spm_id_from=333.788.recommend_more_video.1
+[Rust语言]从零开始写一个简单的markdown解析器录屏、无语音
+https://www.bilibili.com/video/BV16Q4y1B7Zi/?spm_id_from=333.788.recommend_more_video.2
+Rust编程视频教程（进阶）:
+https://www.bilibili.com/video/BV1FJ411Y71o/?spm_id_from=333.788.recommend_more_video.0
+
+Go语言区块链公链开发理论+实战:
+https://www.bilibili.com/video/BV1NJ411i7UC/?p=22
+
+科学翻墙：
+https://www.bilibili.com/video/BV1NJ411i7UC/?p=22
+
+Web3 之旅：使用 Solidity 在以太坊上创建和部署智能合约【中英字幕】：
+https://www.bilibili.com/video/BV1Na41187oL/?p=2&spm_id_from=pageDriver
+
+区块链游戏地址:
+https://github.com/QuintionTang/vue-game-dapp
+
+
